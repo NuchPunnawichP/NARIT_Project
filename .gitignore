@@ -34,3 +34,11 @@
 # Else
 Read_pulse.ipynb
 cnt1.ipynb
+0.ipynb
+01.ipynb
+*.py
+*.csv
+test_cv2.ipynb
+TestCV2_2rd.ipynb
+AutoML.ipynb
+0.cpp
